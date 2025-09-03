@@ -11,24 +11,6 @@ It combines RAG (Retrieval-Augmented Generation), Memory Agents, Weather APIs, a
 🎙️ Multilingual Voice/Text Support: Farmers can ask queries in local languages (via text or voice).
 🌾 Actionable Advice: Fertilizer dosage, irrigation scheduling, pest/disease alerts, and market tips.
 
-📂 Project Structure
-agrisense-ai/
-│── README.md
-│── requirements.txt
-│── config.yaml
-│── .gitignore
-│
-├── data/                     # Research PDFs, advisories, sample data
-├── modules/
-│   ├── rag_engine/           # RAG pipeline (PDFs + advisories)
-│   ├── memory_agent/         # Farm memory & personalization
-│   ├── weather_agent/        # Weather API integration
-│   ├── voice_interface/      # STT, TTS, local language translator
-│   └── advisory_agent/       # Decision engine + response formatter
-│
-├── utils/                    # Helpers, DB connectors, logging
-├── main.py                   # Entry point (CLI / API)
-└── app/                      # FastAPI / frontend (optional)
 
 ⚙️ Installation
 
