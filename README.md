@@ -11,6 +11,7 @@ It combines RAG (Retrieval-Augmented Generation), Memory Agents, Weather APIs, a
 🎙️ Multilingual Voice/Text Support: Farmers can ask queries in local languages (via text or voice).
 🌾 Actionable Advice: Fertilizer dosage, irrigation scheduling, pest/disease alerts, and market tips.
 
+<img width="1220" height="579" alt="agrisense_ai_architecture" src="https://github.com/user-attachments/assets/36bb678e-58d0-4df7-b752-eab9fb910354" />
 
 ⚙️ Installation
 
